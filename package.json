@@ -27,5 +27,14 @@
   },
   "devDependencies": {
     "cross-env": "^5.2.0"
-  }
+  },
+  "main": "gatsby-config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aviyashchin/aviyashchinhomepage.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aviyashchin/aviyashchinhomepage/issues"
+  },
+  "homepage": "https://github.com/aviyashchin/aviyashchinhomepage#readme"
 }

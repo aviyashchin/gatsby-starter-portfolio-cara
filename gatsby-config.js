@@ -4,7 +4,7 @@ require(`dotenv`).config({
 
 module.exports = {
   siteMetadata: {
-    siteTitleAlt: `Cara - Gatsby Starter Portfolio`,
+    siteTitleAlt: `Avi Yashchin Homepage`,
   },
   plugins: [
     {
@@ -20,9 +20,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Cara - @lekoarts/gatsby-theme-cara`,
-        short_name: `Cara`,
-        description: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+        name: `Avi Yashchin Homepage`,
+        short_name: `Avi`,
+        description: `Business + Data`,
         start_url: `/`,
         background_color: `#141821`,
         theme_color: `#f6ad55`,
